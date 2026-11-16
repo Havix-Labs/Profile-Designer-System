@@ -34,7 +34,7 @@ Make sure the bot has permissions to send messages and attach files in these cha
 - 🎨 Developed by **Velrosy**
 - 💡 Designed for easy use & full customization
 - 📦 Uses `discord.js & canvas` and other npm packages
-- contact Me If You Need Help (valouyr) ⬅️ Discord User
+- contact Me If You Need Help (velrosyuwu) ⬅️ Discord User
 
 <p>My Discord Account</p>
   <a href="https://discord.com/users/264004753447452674">
